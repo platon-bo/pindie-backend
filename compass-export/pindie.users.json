@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6606b19ef99cd7a67132aaf6"
+  },
+  "username": "aski",
+  "email": "aski@example.com",
+  "password": "$2a$10$LgqW2yoQxJ6nDBaS8nfM3urShNcn0m95wgyES2lqLw2kXicCHyfmC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606b3e0ba5b4c3fa4be6dd5"
+  },
+  "username": "Sobaka",
+  "email": "jav@example.com",
+  "password": "$2a$10$g6PgxfOv1p0xVAi1FCckRuolYB5ImwazvVVhNVisaoxDI9NuAE8oi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664d2f057ef8b446da917510"
+  },
+  "username": "test",
+  "email": "test@ya.ru",
+  "password": "$2a$10$F7jhm8oCAinqSpfkv19ybOZ6IyFFKa1rxy5QXz5qhdhJMUSLHP3w6",
+  "__v": 0
+}]
