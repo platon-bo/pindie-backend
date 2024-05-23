@@ -1,7 +1,7 @@
 // Вместо нашего адреса вставь свой
 // Можно ещё не удалять адреса с localhost, но мы удалили для краткости
 const allowedCors = [
-  "frontik-pindie.nomoredomainswork.ru",
+  "https://frontik-pindie.nomoredomainswork.ru",
   "http://localhost:3001",
   "http://localhost:3000",
 ];
