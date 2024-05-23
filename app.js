@@ -8,12 +8,14 @@ const cookieParser = require("cookie-parser");
 const connectToDataBase = require("./database/connect");
 const apiRouter = require("./routes/api");
 const pagesRouter = require("./routes/page");
+const cors = require("./middlewares/cors");
 
-const PORT = 3000;
+const PORT = 3001;
 const app = express();
 connectToDataBase();
 
 app.use(
+  cors,
   cookieParser(),
   bodyParser.json(),
   express.static(path.join(__dirname, "public")),
